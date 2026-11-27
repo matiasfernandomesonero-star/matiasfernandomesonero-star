@@ -57,6 +57,12 @@ Juego de cartas en **Godot 4.6**: recorrés las provincias jugando al Truco cont
 
 <!-- <img src="img/mano-brava.png" width="640"/> -->
 
+### 🌲 Chronicles of the Forest — Action RPG 3D *(en desarrollo)*
+RPG de exploración en **Godot 4** con misiones, diálogos y combate en tiempo real. Iterado en más de 25 versiones.
+- Esquive, habilidad especial por héroe, niveles, botín y pociones
+- Pueblo con NPCs, **ciclo día/noche**, arena de combate (pensada para PvP) y Templo del Eclipse
+- Música, efectos de impacto (sacudida de cámara, destellos, partículas) y guardado de partida
+
 ### 🏙️ La Ciudad Que Te Olvidó — Metroidvania 2.5D *(preproducción)*
 Metroidvania para **Steam** en Godot 4 + Blender. Biblia de diseño propia como canon, con cronología, elenco y documentos técnicos; arte guiado por una imagen ancla de estilo.
 
