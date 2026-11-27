@@ -55,13 +55,15 @@ Juego de cartas en **Godot 4.6**: recorrés las provincias jugando al Truco cont
 - **25 escenas** de provincia verificadas con una herramienta de auditoría propia (`auditar_mesas.gd`)
 - Curva de dificultad por región, efectos de partículas (humo, vapor) y transiciones de mapa con zoom + viñeta
 
-<!-- <img src="img/mano-brava.png" width="640"/> -->
+<a href="https://github.com/matiasfernandomesonero-star/mano-brava-showcase"><img src="https://github.com/matiasfernandomesonero-star/mano-brava-showcase/raw/main/img/mano-brava-mesa.jpg" width="640" alt="Mano Brava"/></a>
 
 ### 🌲 Chronicles of the Forest — Action RPG 3D *(en desarrollo)*
 RPG de exploración en **Godot 4** con misiones, diálogos y combate en tiempo real. Iterado en más de 25 versiones.
 - Esquive, habilidad especial por héroe, niveles, botín y pociones
 - Pueblo con NPCs, **ciclo día/noche**, arena de combate (pensada para PvP) y Templo del Eclipse
 - Música, efectos de impacto (sacudida de cámara, destellos, partículas) y guardado de partida
+
+<a href="https://github.com/matiasfernandomesonero-star/cronicas-del-bosque"><img src="https://github.com/matiasfernandomesonero-star/cronicas-del-bosque/raw/main/img/rpg-menu.jpg" width="640" alt="Chronicles of the Forest"/></a>
 
 ### 🏙️ La Ciudad Que Te Olvidó — Metroidvania 2.5D *(preproducción)*
 Metroidvania para **Steam** en Godot 4 + Blender. Biblia de diseño propia como canon, con cronología, elenco y documentos técnicos; arte guiado por una imagen ancla de estilo.
